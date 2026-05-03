@@ -12,4 +12,7 @@ Visualizing transaction volume across major cities like Delhi, Bangalore, and Hy
 ## 🚀 How to RunClone the repository.
 Open the .pbix file in Power BI Desktop.Connect the data source to the provided UPI+Transactions.xlsx.
 
+
+
+## Dashboard:
 <img width="2110" height="1200" alt="image" src="https://github.com/user-attachments/assets/8e9a04a5-7c36-4d20-bdaa-d5e336d6407c" />
